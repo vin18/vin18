@@ -3,9 +3,10 @@
 ![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Fullstack+Web+Developer;Design+Enthusiast;Problem+Solver)
 
 ## About Me 
-- I am a software engineer from 🇮🇳 that loves playing chess, breezing memes, and learning anything that I am curious about - tech, life, space 💫
-- I love having deep conversations with like-minded folks, learning from them and believing in growing together 🚀
+- I am a software engineer from 🇮🇳. I love playing chess, breezing memes, and learning anything that I am curious about - tech, life, space 💫
+- I love having deep conversations with like-minded folks, learning from them, and believing in growing together 🚀
 - I am passionate about building beautiful, performant, and scalable web applications ✨
+- Striving to become a kind person :)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vin18&theme=radical&hide_border=true)
 
@@ -19,5 +20,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vin18&langs_count=10&layout=compact&theme=radical&hide_border=true)
 
-![Samyak Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=vin18&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true)
+![Vinit Raut's GitHub stats](https://github-readme-stats.vercel.app/api?username=vin18&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true)
 
