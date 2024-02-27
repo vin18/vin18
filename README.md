@@ -1,12 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=vin18&color=000000)
 
-![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Fullstack+Web+Developer;Design+Enthusiast;Problem+Solver)
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Fullstack+Product+Engineer;Design+Enthusiast;Problem+Solver)
 
 ## About Me 
-- I am a software engineer from 🇮🇳. I love playing chess, breezing memes, and learning anything that I am curious about - tech, life, space 💫
-- I love having deep conversations with like-minded folks, learning from them, and believing in growing together 🚀
-- I am passionate about building beautiful, performant, and scalable web applications ✨
-- Striving to become a kind person :)
+- I am a software engineer from 🇮🇳. I love playing chess, breezing memes, and learn anything that I am curious about - tech, life, space 💫
+- I like to have deep conversations and establish meaningfull relationshipts with like-minded folks and strongly believing in growing together 🚀
+- I am passionate and obsessed about building beautiful, performant and secure softwares (currently dabbling around web) ✨
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vin18&theme=radical&hide_border=true)
 
