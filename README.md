@@ -3,10 +3,11 @@
 ![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Fullstack+Product+Engineer;Design+Enthusiast;Problem+Solver)
 
 ## About Me 
-- I am a software engineer obsessed with crafting good web applications⚡
+- I am a software engineer obsessed with crafting good web applications.
 - I like to have deep conversations and establish meaningful relationships with like-minded folks and strongly believe in growing together 🚀
-- I am passionate and obsessed about building beautiful, performant and secure softwares (currently dabbling around web) ✨
+- I am passionate and obsessed about building beautiful, performant and secure softwares.
 - I love playing chess, breezing memes, and learn anything that I am curious about - tech, life, space 💫
+- I am currently dabbling with Rust!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vin18&theme=radical&hide_border=true)
 
